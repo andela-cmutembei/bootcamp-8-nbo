@@ -1,0 +1,1 @@
+For this assignment you are required to write tests for the [class](https://github.com/andela-cmutembei/bootcamp-8-nbo/blob/master/day_2/assignment.md) you created. Ensure to create at least 20 test cases that tests as much of the functionality as you can. Remember to test edge cases as well as abnormal input.
